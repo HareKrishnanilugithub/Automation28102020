@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="263" key="DIALOG_X_ORIGIN"/>
+		<item value="0" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="661" key="dialogHeight"/>
 		<item value="614" key="dialogWidth"/>
 		<list key="textEntries">
-			<item value="1"/>
+			<item value="2"/>
 		</list>
 		<list key="orderedElements">
 			<item value="org.eclipse.ui.file.export(exportWizardId=org.eclipse.mylyn.tasks.ui.wizards.export)"/>
@@ -13,9 +17,12 @@
 			<item value="org.eclipse.ui.commands"/>
 		</list>
 		<list key="textArray">
-			<item value="text "/>
+			<item value="tex"/>
+			<item value="te"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
 	</section>
 </section>
